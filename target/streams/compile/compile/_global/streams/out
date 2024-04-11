@@ -1,0 +1,22 @@
+[0m[[0m[31merror[0m] [0m[0mC:\Users\sreup\Documents\projet\Basics\src\main\scala\Main\SolidBotFactory.scala:33:23: value getRandomQuote is not a member of Main.QuoteRepository[0m
+[0m[[0m[31merror[0m] [0m[0m      quoteRepository.getRandomQuote().map {[0m
+[0m[[0m[31merror[0m] [0m[0m                      ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\sreup\Documents\projet\Basics\src\main\scala\Main\SolidBotFactory.scala:34:47: value author is not a member of Any[0m
+[0m[[0m[31merror[0m] [0m[0m        case Some(quote) => println(s"${quote.author} said: ${quote.citation}")[0m
+[0m[[0m[31merror[0m] [0m[0m                                              ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\sreup\Documents\projet\Basics\src\main\scala\Main\SolidBotFactory.scala:34:69: value citation is not a member of Any[0m
+[0m[[0m[31merror[0m] [0m[0m        case Some(quote) => println(s"${quote.author} said: ${quote.citation}")[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                    ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\sreup\Documents\projet\Basics\src\main\scala\Main\SolidBotFactory.scala:40:26: not enough arguments for constructor SolidBot: (quoteRepository: Main.QuoteRepository): Main.SolidBotFactory.SolidBot.[0m
+[0m[[0m[31merror[0m] [0m[0mUnspecified value parameter quoteRepository.[0m
+[0m[[0m[31merror[0m] [0m[0m  class Worker() extends SolidBot with WalkingBot {[0m
+[0m[[0m[31merror[0m] [0m[0m                         ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\sreup\Documents\projet\Basics\src\main\scala\Main\SolidBotFactory.scala:46:27: not enough arguments for constructor SolidBot: (quoteRepository: Main.QuoteRepository): Main.SolidBotFactory.SolidBot.[0m
+[0m[[0m[31merror[0m] [0m[0mUnspecified value parameter quoteRepository.[0m
+[0m[[0m[31merror[0m] [0m[0m  class Warrior() extends SolidBot with WalkingBot {[0m
+[0m[[0m[31merror[0m] [0m[0m                          ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\sreup\Documents\projet\Basics\src\main\scala\Main\SolidBotFactory.scala:52:31: not enough arguments for constructor SolidBot: (quoteRepository: Main.QuoteRepository): Main.SolidBotFactory.SolidBot.[0m
+[0m[[0m[31merror[0m] [0m[0mUnspecified value parameter quoteRepository.[0m
+[0m[[0m[31merror[0m] [0m[0m  class Transporter() extends SolidBot with RollingBot {[0m
+[0m[[0m[31merror[0m] [0m[0m                              ^[0m
+[0m[[0m[31merror[0m] [0m[0m6 errors found[0m
