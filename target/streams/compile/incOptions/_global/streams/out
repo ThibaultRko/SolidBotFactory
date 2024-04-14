@@ -1,10 +1,5 @@
-[0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = C:\Users\sreup\Documents\projet\Basics\target\scala-2.13\classes.bak[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = C:\Users\sreup\Documents\Code\SOLID\SolidBotFactory\target\scala-2.13\classes.bak[0m
 [0m[[0m[0mdebug[0m] [0m[0mAbout to delete class files:[0m
-[0m[[0m[0mdebug[0m] [0m[0mWe backup class files:[0m
-[0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = C:\Users\sreup\Documents\projet\Basics\target\scala-2.13\classes.bak[0m
-[0m[[0m[0mdebug[0m] [0m[0mAbout to delete class files:[0m
-[0m[[0m[0mdebug[0m] [0m[0mWe backup class files:[0m
-[0m[[0m[0mdebug[0m] [0m[0mRegistering generated classes:[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Quote.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Main$delayedInit$body.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	WalkingBot.class[0m
@@ -18,4 +13,21 @@
 [0m[[0m[0mdebug[0m] [0m[0m	SolidBot.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Main$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Transporter.class[0m
-[0m[[0m[0mdebug[0m] [0m[0mRemoving the temporary directory used for backing up class files: C:\Users\sreup\Documents\projet\Basics\target\scala-2.13\classes.bak[0m
+[0m[[0m[0mdebug[0m] [0m[0mWe backup class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Quote.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	WalkingBot.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RollingBot.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Warrior.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Worker.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	JsonQuoteRepository.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	QuoteRepository.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Quote$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SolidBot.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Transporter.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mRolling back changes to class files.[0m
+[0m[[0m[0mdebug[0m] [0m[0mRemoving generated classes:[0m
+[0m[[0m[0mdebug[0m] [0m[0mRestoring class files: [0m
+[0m[[0m[0mdebug[0m] [0m[0mRemoving the temporary directory used for backing up class files: C:\Users\sreup\Documents\Code\SOLID\SolidBotFactory\target\scala-2.13\classes.bak[0m

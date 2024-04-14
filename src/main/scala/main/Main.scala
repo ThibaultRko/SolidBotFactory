@@ -1,11 +1,11 @@
 package main
 
+import main.domain.philoBot.PhiloBot
+
 object Main extends App {
   val quoteRepository = new JsonQuoteRepository()
-  val worker = new Worker(quoteRepository)
-  val warrior = new Warrior(quoteRepository)
-  val transporter = new Transporter(quoteRepository)
-  worker.job()
-  worker.running()
+  val platoBot = new PhiloBot(quoteRepository)
+  platoBot.myNameIs("PlatoBot")
+  platoBot.sayQuote()
 }
 

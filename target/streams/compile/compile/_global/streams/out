@@ -1,0 +1,10 @@
+[0m[[0m[31merror[0m] [0m[0mC:\Users\sreup\Documents\Code\SOLID\SolidBotFactory\src\main\scala\main\Main.scala:3:8: object Transporter is not a member of package main.domain[0m
+[0m[[0m[31merror[0m] [0m[0mimport main.domain.{PhiloBot, Transporter, Warrior}[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\sreup\Documents\Code\SOLID\SolidBotFactory\src\main\scala\main\Main.scala:7:31: no arguments allowed for nullary constructor PhiloBot: (): main.domain.PhiloBot[0m
+[0m[[0m[31merror[0m] [0m[0m  val platoBot = new PhiloBot(quoteRepository)[0m
+[0m[[0m[31merror[0m] [0m[0m                              ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\sreup\Documents\Code\SOLID\SolidBotFactory\src\main\scala\main\domain\PhiloBot.scala:6:48: no arguments allowed for nullary constructor SolidBot: (): main.domain.SolidBot[0m
+[0m[[0m[31merror[0m] [0m[0mclass PhiloBot extends SolidBot(quoteRepository: QuoteRepository) {[0m
+[0m[[0m[31merror[0m] [0m[0m                                               ^[0m
+[0m[[0m[31merror[0m] [0m[0mthree errors found[0m
